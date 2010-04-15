@@ -7,8 +7,8 @@ endif
 
 let g:colors_name = "darklord"
 
-hi Normal		guibg=grey13	 	guifg=grey85
-hi NonText		guibg=grey13	 	guifg=yellow3
+hi Normal		guibg=grey15	 	guifg=grey85
+hi NonText		guibg=grey15	 	guifg=yellow3
 hi Cursor		guibg=green2	 	guifg=black
 
 hi Statement  						guifg=#D2B48C			gui=none
@@ -19,7 +19,7 @@ hi Comment    						guifg=#80D0FF
 hi PreProc    						guifg=#E0B0B0
 hi Special    						guifg=#DDDD40
 hi Identifier 						guifg=#70FF70
-hi Type								guifg=#DD89D9			gui=none
+hi Type								guifg=#F0A0C0			gui=none
 
 hi link Function Identifier
 hi link SpecialKey Comment
