@@ -27,8 +27,7 @@ hi link Directory  Comment
 
 hi Folded	 	guibg=grey45		guifg=grey90
 hi Visual	 	guibg=fg			guifg=#556B2F			gui=reverse
-hi Search	 	guibg=#B2946C		guifg=black				gui=none
-hi IncSearch	guibg=#92744C		guifg=black				gui=none
+hi Search	 	guibg=LightSkyBlue3 guifg=black				gui=none
+hi IncSearch	guibg=blue			guifg=yellow			gui=bold
 hi WarningMsg	guibg=GhostWhite	guifg=red				gui=bold
-hi Error		guibg=#FF5050		guifg=black				gui=none
-hi Todo		 	guibg=#70B070		guifg=black				gui=none
+hi Error		guibg=red3
